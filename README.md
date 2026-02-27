@@ -1,16 +1,14 @@
-## Hi there 👋
+# Maria Rais
 
-<!--
-**Mariarais24/Mariarais24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design data models and dashboards that translate raw datasets into reliable business intelligence.
 
-Here are some ideas to get you started:
+My work revolves around retail performance analytics — building KPI frameworks, optimizing reporting logic, and ensuring data accuracy across large datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools I use daily:
+Power BI • DAX • SQL • Power Query • Excel
+
+Design & presentation:
+Canva • Figma
+
+## Focus
+Building dashboards that help businesses act with confidence.
