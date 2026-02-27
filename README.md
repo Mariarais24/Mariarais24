@@ -2,7 +2,7 @@
 
 I design data models and dashboards that translate raw datasets into reliable business intelligence.
 
-My work revolves around retail performance analytics — building KPI frameworks, optimizing reporting logic, and ensuring data accuracy across large datasets.
+My work revolves around retail performance analytics; building KPI frameworks, optimizing reporting logic, and ensuring data accuracy across large datasets.
 
 ## 🛠 Tools I Use Daily
 Power BI ⚡  
