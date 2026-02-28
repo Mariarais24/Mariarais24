@@ -1,4 +1,4 @@
-## 🌸Hey there, I’m so glad you’re here!
+## 🌸Hey there, I'm Maria.
 
 I design data models and dashboards that translate raw datasets into reliable business intelligence.
 
