@@ -20,8 +20,8 @@ My work revolves around retail performance analytics; building KPI frameworks, o
 • Retail Performance Metrics  
 
 ## 🎨 Design & Presentation
-Canva 🎯  
-Figma ✏️  
+Canva | 
+Figma   
 
 ## 🎯 Focus
 Building dashboards that help businesses act with confidence.
