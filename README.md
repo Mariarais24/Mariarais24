@@ -1,7 +1,7 @@
 ## 🌸 Hey there, I'm Maria.
 
 I design data models and dashboards that translate raw datasets into reliable business intelligence.
-My work revolves around **e-commerce and marketing analytics** — building KPI frameworks, optimizing reporting logic, and ensuring data accuracy across large datasets.
+My work revolves around **e-commerce and marketing analytics** building KPI frameworks, optimizing reporting logic, and ensuring data accuracy across large datasets.
 
 ---
 
