@@ -33,7 +33,7 @@ Data Modeling (Star Schema · Fact/Dimension Design) &nbsp;•&nbsp; ETL & Data 
 | Dashboard | Description | Link |
 |---|---|---|
 | 🛒 E-Commerce Web Analytics | Page performance & conversion diagnosis | [View Repo](https://github.com/Mariarais24/ecommerce-web-analytics-powerbi) |
-| 📣 Meta Ads Intelligence | Campaign efficiency & ad-level diagnostics | [View Repo](https://github.com/Mariarais24/meta-ads-analytics-powerbi) |
+| 📣 Meta Ads Intelligence | Campaign efficiency & ad-level diagnostics | [View Repo](https://github.com/Mariarais24/powerbi-meta-ads-dashboard) |
 
 ---
 
