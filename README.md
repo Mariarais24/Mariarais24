@@ -17,7 +17,7 @@ My work revolves around **e-commerce and marketing analytics** building KPI fram
 
 ## 🧠 Technical Expertise
 
-Data Modeling (Star Schema · Fact/Dimension Design) &nbsp;•&nbsp; ETL & Data Transformation &nbsp;•&nbsp; DAX & Measure Optimization &nbsp;•&nbsp; SQL Query Development &nbsp;•&nbsp; Retail Performance Metrics
+Data Modeling (Star Schema · Fact/Dimension Design) &nbsp;•&nbsp; ETL & Data Transformation &nbsp;•&nbsp; DAX & Measure Optimization &nbsp;•&nbsp; SQL Query Development &nbsp;•&nbsp; KPI Framework Design
 
 ---
 
