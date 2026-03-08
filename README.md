@@ -5,12 +5,14 @@ My work revolves around **e-commerce and marketing analytics** building KPI fram
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools & Technologies 
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-Transformation-green?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-green?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
