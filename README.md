@@ -12,7 +12,7 @@ My work revolves around **e-commerce and marketing analytics** building KPI fram
 ![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-green?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
